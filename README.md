@@ -7,7 +7,7 @@
       </span></animated-image>
 </p>
 
-🔭 Website Developer at Kisel Indonesia
+🔭 Fresh Graduate from Asia e University Malaysia
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/luthfie-fauzan-anshary/)
 
