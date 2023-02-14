@@ -17,6 +17,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LuthfieFauzan&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
  
-[<iframe src="https://www.hackerrank.com/certificates/iframe/e70b805d4d4a"  height="300px" width="100%" title="Iframe"></iframe>](https://www.hackerrank.com/certificates/iframe/e70b805d4d4a)
+
 
 <!-- Updated on 10 July 2022 --!>
